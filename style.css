@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+* {
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+:root {
+    --primary-color:#E1EEFF;
+    --scendary-color: #0360D9;  
+    /* --basic-color:; */
+}
+
+
+/* Navbar */
+.header {
+    background-color: var(--primary-color) ;
+}
+
+.navbar-brand span {
+    font-size: 32px;
+    font-weight: 700;
+}
+.navbar-brand span:first-child {
+    color: #000;
+}
+.navbar-brand span:last-child {
+    color: #007bff;
+}
+.nav-link {
+    font-size: 20px;
+    font-weight: 500 !important;
+    color: #000;
+    margin-left: 15px;
+}
+.nav-link.active {
+    color: #007bff !important;
+    font-weight: bold;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 2px
+}
+.nav-link:hover {
+    color: #007bff;
+    text-decoration: none;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 2px
+}
+.btn {
+    font-size: 20px !important;
+    font-weight: 600;
+}
+
+.btn-outline-primary {
+    color: #007bff;
+    border-color: #007bff;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+
+/*  hero section */
+.hero-section{
+    background-color: var(--primary-color);    
+}
+
+.heading1 {
+    font-weight: 700;
+    font-size: 64px;
+    margin-top: 80px;
+}
+
+.heading2{
+    font-weight: 700;
+    font-size: 64px;
+    color: var(--scendary-color);
+}
+
+.search-bar {
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 73px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .search-bar input,
+  .search-bar select {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background-color: transparent;
+    font-size: 16px;
+  }
+  .search-bar select {
+    padding-right: 30px;
+    background: url('https://cdn-icons-png.flaticon.com/512/2985/2985150.png') no-repeat right;
+    background-size: 16px;
+  }
+  .search-bar .btn {
+    background-color: var(--scendary-color);
+    width: 40px;
+    height: 40px;
+  }
+
+  .background-image {
+    top: 47%;
+  }
+
+  .doctor-logo {
+    top: 32%
+}
+
+  /* details */
+.details {
+    background-color: var(--scendary-color);
+}
+
+.details-heading {
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.details-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+}
+ /*Consulting Specialists section */
+ .circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: var(--primary-color); 
+  }
+
+ .consulting-specialists-heading {
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 110px;
+ }
+
+ .Consulting-details {
+    margin-top: 130px;
+    margin-bottom: 130px;
+ }
+
+ .Consulting-heading {
+    font-size: 48px;
+    font-weight: 700;
+ }
+
+ .consulting-card-heading {
+    font-size: 24px;
+    font-weight: 700;
+ }
+
+ /* review section */
+
+ .review {
+    background-color: var(--primary-color);
+    margin-top: 130px;
+    margin-bottom: 130px;
+    padding: 100px 0px;
+ }
+ .card-heading {
+    font-size: 16px;
+    font-weight: 600;
+ }
+
+ .card-date {
+    font-size: 12px;
+    font-weight: 400;
+ }
+
+
+ /*  Quality Health section */
+ .Quality-heading {
+    font-size: 48px;
+    font-weight: 700;
+ }
+
+ .Quality-text {
+    font-size: 16px;
+    font-weight: 400;
+ }
+
+ .newsletter-box {
+    background-color: #0065e0;
+    border-radius: 30px;
+    margin-top: 50px;
+  }
+  
+  .input-group .form-control {
+    height: 50px;
+    border-radius: 50px 0 0 50px;
+    border: none;
+  }
+  
+  .input-group .btn {
+    height: 50px;
+    border-radius: 0 50px 50px 0;
+    background-color: #004bb4;
+    color: white;
+    border: none;
+  }
+  
+  .btn:hover {
+    background-color: #003b8e;
+  }
+  
+  input:focus, button:focus {
+    box-shadow: none;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  
+  /* Footer */
+  .footer {
+    background-color: #0065e0;
+    padding: 40px 0;
+    margin-top: 150px;
+  }
+  
+  .footer h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .footer p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+  
+  .footer a {
+    font-size: 0.9rem;
+  }
+  
+  .footer .social-icons a {
+    font-size: 1.5rem;
+  }
+  
+  .footer iframe {
+    border-radius: 10px;
+  }
+  
+  hr {
+    border: 1px solid white;
+  }
