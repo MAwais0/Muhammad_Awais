@@ -1,16 +1,17 @@
-# MAwais0
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQFEZSX8VZp3qA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730313442374?e=1735776000&v=beta&t=aN3rlsk9fujcYDxr-dyA2B-3XFC4ObvmZtmrF0LXkiE)
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mawais0&label=Profile%20views&color=0e75b6&style=flat" alt="mawais0" /> </p>
 
-- 🔭 I’m currently working on **Medical Landing Page**
+- 🌱 I've a strong grip on **HTML , CSS and Bootstrap 5**
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **Java Script & ReactJS**
+- 👨‍💻 My projects are available at https://github.com/MAwais0/Muhammad_Awais/tree/master
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Html CSS Bootstrap or JavaScript**
 
 - 📫 How to reach me **awaisehsan00786@gmail.com**
 
@@ -29,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mawais0&show_icons=true&locale=en" alt="mawais0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mawais0&" alt="mawais0" /></p>
+
+
+
+
+
